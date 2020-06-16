@@ -37,6 +37,9 @@ Hence to implement this we will make colorization neural net in three steps.
 
 * For our “final” version, we’ll combine our neural network with a classifier. We’ll use an Inception Resnet V2 that has been trained on 1.2 million images. To make the coloring pop, we’ll train our neural network on portraits from Unsplash.
 
+### Inspiration from
+  * https://github.com/emilwallner/Coloring-greyscale-images
+
 
 ### Author:-
 
