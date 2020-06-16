@@ -1,7 +1,7 @@
 # Colorizing-Black-And-white-Images
 
 ### About:-
-In this project uses Convolution Neural Network(generative adversarial networks) to add color to black and white images. For each such image, the generator network (G) receives its black and white version and outputs a full RGB version of the image (i.e. the black and white image with color added to it).
+In this project uses Convolution Neural Network(CNNs) and Inception-ResNet-v2  to add color to black and white images. For each such image, the generator network (G) receives its black and white version and outputs a full RGB version of the image (i.e. the black and white image with color added to it).
 
 ## Core-Logic:-
 
