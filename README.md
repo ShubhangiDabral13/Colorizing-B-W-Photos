@@ -37,9 +37,14 @@ Hence to implement this we will make colorization neural net in three steps.
 
 * For our “final” version, we’ll combine our neural network with a classifier. We’ll use an Inception Resnet V2 that has been trained on 1.2 million images. To make the coloring pop, we’ll train our neural network on portraits from Unsplash.
 
-### Inspiration from
-  * https://github.com/emilwallner/Coloring-greyscale-images
-
+## Inspiration from:
+  * Emil Wallnér on [freecodecamp](https://www.freecodecamp.org/news/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d/)
+  * Eryk Lewinson on [Medium](https://towardsdatascience.com/image-colorization-using-convolutional-autoencoders-fdabc1cb1dbe)
+  * baldassarreFe GitHub [repository](https://github.com/baldassarreFe/deep-koalarization)
+  
+## Project originated from here:
+* [Coloring Black and White Images with Neural Networks](https://github.com/emilwallner/Coloring-greyscale-images), by [emilwallner](https://github.com/emilwallner).
+ 
 
 ### Author:-
 
